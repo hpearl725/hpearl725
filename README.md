@@ -16,9 +16,9 @@
 - 🧾 Costco: built real-time Power BI dashboards, optimized large SQL datasets, and integrated Azure Databricks with Python and NumPy into ETL workflows to improve forecasting and inventory operations.
 
 ## Tech I use 🧰
-## Tech I use 🧰
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,6 +29,7 @@
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 **Data + ML**
+
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -37,6 +38,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 
 **Platforms + Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -46,12 +48,14 @@
 ![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
 **Visualization**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Mode](https://img.shields.io/badge/Mode-000000?style=for-the-badge)
 ![Hex](https://img.shields.io/badge/Hex-000000?style=for-the-badge)
 
 **LLM stack**
+
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
