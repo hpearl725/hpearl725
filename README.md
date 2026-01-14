@@ -19,47 +19,40 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) -->
-<!-- ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8) -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Data + ML**
 
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) -->
-<!-- ![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C) -->
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **Platforms + Tools**
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-<!-- ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=snowflake&logoColor=29B5E8) -->
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248) -->
-<!-- ![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621) -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Mode](https://img.shields.io/badge/Mode-000000?style=for-the-badge)
-![Hex](https://img.shields.io/badge/Hex-000000?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Mode](https://img.shields.io/badge/Mode-6A5ACD?style=flat)
+![Hex](https://img.shields.io/badge/Hex-FF6B6B?style=flat)
 
 **LLM stack**
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=flat)
 
 ## Current focus 🌠
 Exploring how to build agentic systems for complex settings, with emphasis on:
