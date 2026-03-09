@@ -61,7 +61,7 @@ Exploring how to build agentic systems for complex settings, with emphasis on:
 - 🔁 scalable pipelines for analytics and model feedback loops
 
 ## Connect 📡
-- LinkedIn: https://linkedin.com/in/harrisonpearlai
+- LinkedIn: https://linkedin.com/in/harrison-pearl-ai
 - Email: hpearl@usc.edu
 
 ---
